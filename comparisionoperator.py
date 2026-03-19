@@ -3,4 +3,4 @@
 number1 = 7>6
 print(number1)
 
-#comparision operators > ,<,>=,<=,==
+#comparision operators > ,<,>=,<=,==,!=
